@@ -8,6 +8,7 @@ import Hotel from "./pages/hotel/Hotel";
 import List from "./pages/list/List";
 import Login from "./pages/login/Login";
 
+#react_routes
 function App() {
   return (
     <BrowserRouter>
